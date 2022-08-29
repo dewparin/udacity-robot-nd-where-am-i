@@ -13,8 +13,8 @@
         <param name="global_frame_id" value="map" />
 
         <!-- Filter Parameters -->
-        <param name="initial_pose_x" value="0" />
-        <param name="initial_pose_y" value="0.04" />
+        <param name="initial_pose_x" value="0.2" />
+        <param name="initial_pose_y" value="-0.1" />
         <param name="initial_pose_a" value="-1.64" />
         <param name="min_particles" value="50" />
         <param name="max_particles" value="100" />
